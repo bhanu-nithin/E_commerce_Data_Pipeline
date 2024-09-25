@@ -4,7 +4,7 @@
 This e-commerce project implements a comprehensive, end-to-end data pipeline solution using Microsoft Azure's cloud services. The architecture efficiently manages data ingestion, transformation, and analytics, tailored to handle the dynamic and complex data requirements of an e-commerce platform. It focuses on automation, scalability, and security to optimize the data flow.
 
 
-![Architecture](Architecture.jpg)
+![Architecture](E_Commerce_Architecture.png)
 
 
 ## Technology Used
