@@ -7,6 +7,20 @@ This e-commerce project implements a comprehensive, end-to-end data pipeline sol
 ![Architecture](Architecture.jpg)
 
 
+## Technology Used
+
+    Programming Language- Pyspark 
+    
+    Scripting Language - SQL
+    
+    Azure Cloud
+    
+    Azure Databricks
+    
+    Azure DataFactory
+    
+    Azure DataLake Storage Gen 2
+
 
 
 **Key Components**:
@@ -69,3 +83,10 @@ The use of distributed computing with Azure Databricks ensures efficient process
 
 The serverless, pay-as-you-go model of Azure services keeps costs manageable, with resources scaling based on actual usage.
 This project demonstrates how Azure cloud technologies, combined with automation, can be leveraged to create a powerful, end-to-end data pipeline that drives data-driven decision-making for an e-commerce business
+
+
+
+**Dataset Used**
+This dataset aims to serve as a benchmark for an e-commerce fashion store. Using this dataset, you may want to try and understand what you can expect of your users and determine in advance how your grows may be.
+
+Here is the link to the dataset : https://data.world/jfreex/e-commerce-users-of-a-french-c2c-fashion-store
